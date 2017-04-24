@@ -1,7 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="RabbitMQ" type="Multirun" factoryName="Multirun" separateTabs="true" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0">
-    <runConfiguration name="ProducerMain" type="Application" />
-    <runConfiguration name="ConsumerMain" type="Application" />
-    <method />
-  </configuration>
-</component>
